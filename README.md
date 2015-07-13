@@ -22,4 +22,14 @@ It is my small project to add Gead display functionality to Suzuki SV650 K3+.<br
 ![Connection specification](http://i1374.photobucket.com/albums/ag438/bula87/Untitled%20Sketch_bb_zpspygligui.png)<br>
 (illustrative photo - only connections are important)
 
+### Needed libs:
+DHT-sensor lib: [](https://github.com/adafruit/DHT-sensor-library)<br>
+EEPROMEx lib: [](https://github.com/thijse/Arduino-EEPROMEx)<br>
+Timer lib: [](https://github.com/JChristensen/Timer)<br>
+SvOLED lib: included in Resources/Libs directory<br>
+
+### Additional software:<br>
+LCD graphic converter: http://www.hobbytronics.co.uk/downloads/bmp-lcd
+
+
 

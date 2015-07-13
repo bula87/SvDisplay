@@ -23,9 +23,9 @@ It is my small project to add Gead display functionality to Suzuki SV650 K3+.<br
 (illustrative photo - only connections are important)
 
 ### Needed libs:
-DHT-sensor lib: [](https://github.com/adafruit/DHT-sensor-library)<br>
-EEPROMEx lib: [](https://github.com/thijse/Arduino-EEPROMEx)<br>
-Timer lib: [](https://github.com/JChristensen/Timer)<br>
+DHT-sensor lib: [](https://github.com/adafruit/DHT-sensor-library) <br>
+EEPROMEx lib: [](https://github.com/thijse/Arduino-EEPROMEx) <br>
+Timer lib: [](https://github.com/JChristensen/Timer) <br>
 SvOLED lib: included in Resources/Libs directory<br>
 
 ### Additional software:<br>

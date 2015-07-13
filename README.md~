@@ -29,7 +29,7 @@ Timer lib: https://github.com/JChristensen/Timer <br>
 SvOLED lib: included in Resources/Libs directory<br>
 
 ### Additional software:<br>
-SV BT LOGGER - Android application to configure Arduino MPU without programming. Source code (MIT App Inventor) and bin file in Android App directory.<br>
+SV BT LOGGER - Android application to configure Arduino MPU without programming. Source code (MIT App Inventor) and bin file in Android App directory.
 LCD graphic converter: http://www.hobbytronics.co.uk/downloads/bmp-lcd
 
 
